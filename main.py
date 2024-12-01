@@ -5,7 +5,7 @@ import os
 # Configurações do Serviço Azure Translator
 subscription_key = "sua_subscription_key"
 endpoint = 'https://api.cognitive.microsofttranslator.com'
-location = "eastus2"
+location = "sua_location_region"
 language_destination = 'pt-br'  # Idioma desejado para tradução
 
 # Função para traduzir texto
